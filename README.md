@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%20There,%20I'm%20Haleema%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20BSAI%20Student%20|%20AI/ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%20There,%20I'm%20Haleema%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20BSAI%20Student%20|%20AI/ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=16)
 
 </div>
 
