@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%20There,%20I'm%20Haleema%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38%20BSAI%20Student%20|%20AI/ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%20There,%20I'm%20Haleema%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSAI%20Student%20|%20AI/ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=16)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- 🎓 Student at **Barani Institute of Information Technology (BIIT)**, working across coursework such as *Programming for AI & ML* and *8086 Assembly Language*
+- 🎓 BSAI (Bachelor's in Artificial Intelligence) student at **Barani Institute of Information Technology (BIIT)**, working across coursework such as *Programming for AI & ML* and *8086 Assembly Language*
 - 🧠 Passionate about **AI/ML**, applied automation, and turning raw data into working, testable solutions
 - 🛠️ Applying what I learn to real projects connected with **SafeX Solutions**
 - 🎨 Also explore **graphic design** on the side — portfolios, branding, and creative freelancing
