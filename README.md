@@ -1,80 +1,143 @@
-<h1 align="center">Hi, I'm Haleema 👋</h1>
-<h3 align="center">Applied ML & Software Development | Turning Data into Decisions</h3>
+<!-- Banner -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Machine+Learning;C%2B%2B+%2F+Java+%2F+SQL+Python;AI+Automation+%40+SafeX+Solutions;Designing+while+I+debug+%F0%9F%8E%A8" alt="Typing SVG" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hi%20There,%20I'm%20Haleema%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20AI/ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=16)
+
+</div>
+
+<!-- Typing intro -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions+one+line+at+a+time;Currently+diving+deep+into+Python+%26+Machine+Learning;Turning+data+into+decisions%2C+one+model+at+a+time;Always+learning.+Always+building.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ### 🧭 About Me
 
-- 🎓 Studying **Programming for AI & ML** and **8086 Assembly Language** at BIIT
-- 🤖 Currently building AI automation projects for **SafeX Solutions** — forecasting models, demos, and real business use cases
-- 🐍 Deepening my skills in **Python**, with a solid foundation in **C++, Java, and SQL**
-- 🎨 Also explore graphic design — portfolios, branding, and ebook design on the side
-- 💡 I like taking a concept, breaking it down, and building it step by step until it actually works
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+- 🎓 Student at **Barani Institute of Information Technology (BIIT)**, working across coursework such as *Programming for AI & ML* and *8086 Assembly Language*
+- 🧠 Passionate about **AI/ML**, applied automation, and turning raw data into working, testable solutions
+- 🛠️ Applying what I learn to real projects connected with **SafeX Solutions**
+- 🎨 Also explore **graphic design** on the side — portfolios, branding, and creative freelancing
+- 🌱 Currently deepening my skills in **Python**, with a solid base in **C++**, **Java**, and **SQL**
+- 💬 Ask me about: forecasting models, NLP mini-projects, Flask APIs, or CNNs
+- 📫 Let's connect and build something useful together!
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-</p>
+<div align="center">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=00C9A7)
+![SQL](https://img.shields.io/badge/SQL-0f2027?style=for-the-badge&logo=mysql&logoColor=00C9A7)
+![Assembly](https://img.shields.io/badge/8086_Assembly-2c5364?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-0f2027?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2C5364?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-0f2027?style=for-the-badge&logo=python&logoColor=00C9A7)
+
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00C9A7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Work
 
-| Project | What it does |
-|---|---|
-| 📈 **Sales/Revenue Forecasting Model** | Forecasts revenue trends from a synthetic dataset using Pandas, Matplotlib, and scikit-learn — built as part of an AI automation project, now being extended into a tested demo |
-| 📝 **Resume Keyword Matcher** | NLP tool built with NLTK that matches resume content against job keywords |
-| 🚨 **Spam Detection Pipeline** | Logistic Regression + Stratified K-Fold pipeline with forensic feature engineering |
-| 🖼️ **Fashion-MNIST Classifier** | CNN built in TensorFlow/Keras — full pipeline from preprocessing to confusion matrix evaluation |
-| 💬 **Study Buddy Chatbot** | A Flask-based chatbot project, documented and shared on GitHub |
-| 📱 **Mobile Management System** | Flask Web API integrated with SQL Server, including image handling |
-| 🕹️ **8086 Assembly Projects** | Score Processing System, Online Book Shop & Library Management System, built in EMU8086 |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**📈 Sales & Revenue Forecasting Model**
+Built a forecasting mini-model in Python using Pandas, Matplotlib, and scikit-learn — extended into a multi-scenario demo tested across five realistic business cases.
 
-### 🎨 Beyond Code
+</td>
+<td width="50%" valign="top">
 
-I also design — business cards, posters, eBook covers, and branding concepts — and I've built out portfolio copy for freelance design work. I like the overlap between clean logic and clean visuals.
+**🧠 Resume Keyword Matcher**
+An NLP-based tool using NLTK to compare resumes against job descriptions and surface keyword matches.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Study Buddy Chatbot**
+A Flask-based chatbot project designed to assist with study routines, documented with a full project README.
+
+</td>
+<td width="50%" valign="top">
+
+**🖼️ CNN Image Classifier**
+Trained a convolutional neural network on Fashion-MNIST using TensorFlow/Keras — complete with preprocessing, evaluation, and confusion matrix analysis.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛍️ Mobile Management System**
+A Flask Web API backed by SQL Server, with image handling for product/device management.
+
+</td>
+<td width="50%" valign="top">
+
+**🕹️ 8086 Assembly Projects**
+Score Processing System, Online Book Shop, and Library Management System — built in EMU8086 to strengthen low-level programming fundamentals.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaleemaKhan005&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaleemaKhan005&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaleemaKhan005&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HaleemaKhan005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaleemaKhan005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaleemaKhan005&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+
+</div>
 
 ---
 
-### 🌱 Currently Learning
+### 🤝 Let's Connect
 
-`Python` (deepening) · Applied ML workflows · AI automation for real business use cases
+<div align="center">
 
-### 📫 Let's Connect
+![GitHub](https://img.shields.io/badge/GitHub-HaleemaKhan005-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="left">
-  <a href="https://github.com/HaleemaKhan005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+*Open to collaborating on AI/ML projects, automation tools, and clean, well-documented code.*
 
-<p align="center"><i>Always building something — one small increment at a time.</i></p># About-me
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=100&section=footer)
+
+</div>
