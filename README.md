@@ -2,7 +2,7 @@
 <h3 align="center">Applied ML & Software Development | Turning Data into Decisions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Machine+Learning;C%2B%2B+%2F+Java+%2F+SQL+Developer;AI+Automation+%40+SafeX+Solutions;Designing+while+I+debug+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Machine+Learning;C%2B%2B+%2F+Java+%2F+SQL+Python;AI+Automation+%40+SafeX+Solutions;Designing+while+I+debug+%F0%9F%8E%A8" alt="Typing SVG" />
 </p>
 
 ---
